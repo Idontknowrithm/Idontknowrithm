@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Idontknowrithm&&show_icons=true&theme=cobalt)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Idontknowrithm&&show_icons=true&theme=cobalt)
 
 <!--
 **Idontknowrithm/Idontknowrithm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
