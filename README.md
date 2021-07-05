@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=160&section=header&text=Kim%20Yuhyun&fontSize=90&animation=fadeIn)
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=sustkadl)](https://solved.ac/sustkadl)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Idontknowrithm&&show_icons=true&theme=cobalt)
-<h3 align="center">Running to the summit</h3>
+<h3 align="center">Running to the summit :)</h3>
 <h4 align="center">familiar with</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
