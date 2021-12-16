@@ -14,6 +14,6 @@
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 </p>
